@@ -2,6 +2,20 @@
 
 The OneTapInput and ResendOTPButton are custom, reusable components for React-Native applications. They are designed to handle OTP (One Time Password) input and resend OTP functionality respectively. This component utilizes the `react-native-otp-verify` component for OTP Autofill functionality.
 
+## Prerequisites
+
+Before you can use the OneTapInput and ResendOTPButton components, you need to install the `react-native-otp-verify` package. You can do this by running the following command in your terminal:
+
+```bash
+npm install react-native-otp-verify
+```
+
+or if you are using yarn:
+
+```bash
+yarn add react-native-otp-verify
+```
+
 ▶️ [View Live on Expo Snack](https://snack.expo.dev/@priyam.websadroit/react-native-onetapinput?platform=web) ▶️
 
 - [Usage](#usage)
@@ -576,6 +590,12 @@ The ResendOTPButton component accepts the following props (Important & useful pr
 # Changelog
 
 All notable changes to this project will be documented here.
+
+## [1.3.0] - 2024-06-17
+
+### Changed
+
+- Updated README with new instructions and details.
 
 ## [1.2.0] - 2024-06-17
 
