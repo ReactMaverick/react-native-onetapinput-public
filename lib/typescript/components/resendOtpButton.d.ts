@@ -1,5 +1,5 @@
-/// <reference types="react" />
 import { TextStyle, ViewStyle } from "react-native";
+import React from "react";
 type ResendOTPButtonProps = {
     intervalTime?: number;
     onResendOtp?: () => void;

@@ -577,6 +577,12 @@ The ResendOTPButton component accepts the following props (Important & useful pr
 
 All notable changes to this project will be documented here.
 
+## [1.0.2] - YYYY-MM-DD
+
+### Fixed
+
+- Imported React in the ResendOTPButton component to fix a runtime error.
+
 ## [1.0.0] - 2024-06-17
 
 ### Added

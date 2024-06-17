@@ -1,6 +1,6 @@
 {
   "name": "react-native-onetapinput",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "React Native OneTapInput is a customizable, easy-to-use, and highly customizable OTP input component for React Native.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ReactMaverick/react-native-onetapinput.git"
+    "url": "git+https://github.com/ReactMaverick/react-native-onetapinput-public.git"
   },
   "peerDependencies": {
     "react": "^18.2.0",
