@@ -577,7 +577,7 @@ The ResendOTPButton component accepts the following props (Important & useful pr
 
 All notable changes to this project will be documented here.
 
-## [1.0.2] - YYYY-MM-DD
+## [1.1.0] - 2024-06-17
 
 ### Fixed
 
