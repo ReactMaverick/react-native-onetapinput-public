@@ -1,0 +1,48 @@
+{
+  "name": "react-native-onetapinput",
+  "version": "1.0.0",
+  "description": "React Native OneTapInput is a customizable, easy-to-use, and highly customizable OTP input component for React Native.",
+  "main": "lib/commonjs/index.js",
+  "module": "lib/module/index.js",
+  "types": "lib/typescript/index.d.ts",
+  "scripts": {
+    "build": "bob build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactMaverick/react-native-onetapinput.git"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-native": ">=0.73.6 <=0.74.x",
+    "react-native-otp-verify": "^1.1.8"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.6",
+    "react-native-builder-bob": "^0.23.2",
+    "typescript": "^5.0.4"
+  },
+  "author": "Websadroit",
+  "license": "MIT",
+  "files": [
+    "lib/**/*"
+  ],
+  "keywords": [
+    "react-native",
+    "input",
+    "otp-input",
+    "styling",
+    "validation",
+    "custom-validation",
+    "error-handling",
+    "otp",
+    "otp-verification",
+    "otp-verify",
+    "otp-verify-react-native",
+    "otp-verify-react-native-otp-verify",
+    "react-native-otp-verify",
+    "react-native-otp-input",
+    "react-native-otp-verify-input",
+    "react-native-otp-verify-input"
+  ]
+}
