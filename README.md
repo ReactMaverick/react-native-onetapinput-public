@@ -591,6 +591,12 @@ The ResendOTPButton component accepts the following props (Important & useful pr
 
 All notable changes to this project will be documented here.
 
+## [1.4.2] - 2024-06-18
+
+### Fixed
+
+- Updated auto receive sms from messages functionality (Android).
+
 ## [1.3.0] - 2024-06-17
 
 ### Changed
