@@ -1,6 +1,5 @@
 import { TextStyle, ViewStyle } from "react-native";
-import React from "react";
-type ResendOTPButtonProps = {
+export type ResendOTPButtonProps = {
     intervalTime?: number;
     onResendOtp?: () => void;
     resendOtpText?: string;
@@ -15,6 +14,4 @@ type ResendOTPButtonProps = {
     disabledButtonStyle?: ViewStyle;
     timerUnit?: 'seconds' | 'minutes';
 };
-declare const ResendOTPButton: React.FC<ResendOTPButtonProps>;
-export default ResendOTPButton;
-//# sourceMappingURL=resendOtpButton.d.ts.map
+//# sourceMappingURL=resendOTPButtonPropTypes.d.ts.map

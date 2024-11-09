@@ -1,6 +1,5 @@
-import React from "react";
-import { ViewStyle, TextStyle } from "react-native";
-type OneTapInputProps = {
+import { TextStyle, ViewStyle } from "react-native";
+export type OneTapInputProps = {
     value?: string;
     otpType?: 'number' | 'alpha' | 'alphanumeric' | 'custom';
     handleOtpChange?: (otp: string) => void;
@@ -29,6 +28,4 @@ type OneTapInputProps = {
     errorTextStyle?: TextStyle;
     errorContainerStyle?: ViewStyle;
 };
-declare const OneTapInput: React.FC<OneTapInputProps>;
-export default OneTapInput;
-//# sourceMappingURL=oneTapInput.d.ts.map
+//# sourceMappingURL=oneTapInputPropTypes.d.ts.map

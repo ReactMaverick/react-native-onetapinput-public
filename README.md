@@ -22,6 +22,7 @@ yarn add react-native-otp-verify
 - [Reference Image](#reference-image)
 - [Props](#props)
 - [ResendOTPButton Props](#resendotpbutton-props)
+- [Changelog](#changelog)
 
 ## Usage
 
@@ -587,9 +588,17 @@ The ResendOTPButton component accepts the following props (Important & useful pr
     />
     ```
 
-# Changelog
+## Changelog
 
 All notable changes to this project will be documented here.
+
+### [1.5.1] - 2024-09-11
+
+- Minor fixes.
+
+### [1.5.0] - 2024-09-11
+
+- Updated code to be compatible with Latest React Native Version.
 
 ## [1.4.2] - 2024-06-18
 
